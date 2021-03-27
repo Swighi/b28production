@@ -6,7 +6,7 @@ banner:
     worth remembering.
   image: images/hero-image/hero-slider-01.jpg
   button:
-    enable: false
+    enable: true
     label: About
     link: "#products"
 mission:
